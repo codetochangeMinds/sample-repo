@@ -45,7 +45,7 @@
               "body": "Region is unknown. Choose in north, west, east or south."
             },
             {
-              "name": "East",
+              "name": "East-edited",
               "originalRequest": {
                 "method": "GET",
                 "header": [],
@@ -68,7 +68,7 @@
               "body": "{\n    \"region\": \"east\",\n    \"temp\": -6.6,\n    \"weather\": \"frosty\",\n    \"visibility\": 523\n}"
             },
             {
-              "name": "North",
+              "name": "North-edited",
               "originalRequest": {
                 "method": "GET",
                 "header": [],
@@ -91,7 +91,7 @@
               "body": "{\n    \"region\": \"north\",\n    \"temp\": -1.5,\n    \"weather\": \"snowy\",\n    \"visibility\": 25\n}"
             },
             {
-              "name": "South",
+              "name": "South-edited",
               "originalRequest": {
                 "method": "GET",
                 "header": [],
@@ -114,7 +114,7 @@
               "body": "{\n    \"region\": \"south\",\n    \"temp\": 28.3,\n    \"weather\": \"sunny\",\n    \"visibility\": 1500\n}"
             },
             {
-              "name": "West",
+              "name": "West-edited",
               "originalRequest": {
                 "method": "GET",
                 "header": [],
