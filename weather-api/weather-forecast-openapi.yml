@@ -3,7 +3,7 @@ openapi: 3.0.2
 info:
   title: WeatherForecast API
   version: 1.1.0
-  description: A simple API for demonstrating dispatching capabilities in Microcks
+  description: A simple API for demonstrating dispatching capabilities in test for test by test
   contact:
     name: Laurent Broudoux
     url: https://github.com/lbroudoux
